@@ -9,7 +9,7 @@
 #286 = "Azak" #Or "Azaq"
 463 = "Cherkess"			#note (according to wiki Circassia is a latinisation of cherkess, which is related to the turkish name for adyghe - basically this name could apply for 2195 too as both provinces use different names for the same thing)
 2406 = "Kyzy-Kerman"
-2410 = "Bagçasaray" #or I think "Baghçasaray", the current name "Bakhchysarai" I had suggested is in a different language
+2410 = "BagÃ§asaray" #or I think "BaghÃ§asaray", the current name "Bakhchysarai" I had suggested is in a different language
 
 
 
@@ -17,7 +17,7 @@
 
 #Eastern europe
 280 = "Kiyev"
-283 = "Zaporijjâ"
+283 = "ZaporijjÃ¢"
 299 = "Voronej"
 1756 = "Izmayil" #or "Kiliya" (Izmayil might be of more importance considering the khanate)
 1942 = "Jitormir"
@@ -50,7 +50,7 @@
 #crimea
 285 = "Kefe"
 2447 = "Hunkala" #not crimean name, but better than Matrega
-3245 = "Yeñi-Qale" #or "Keric"
+3245 = "YeÃ±i-Qale" #or "Keric"
 
 #adjustment 
 286 = "Azaq" #to make the distinction between tatar and ottoman name
@@ -62,31 +62,31 @@
 #ukraine
 282 = "Hacibey" #or "Ades" which is odessa in crimean tatar
 288 = "Zimla" #the region currently has an english name
-289 = "çernigiv"
+289 = "Ã§ernigiv"
 291 = "Harkiv" #not conclusive
-1944 = "çerkasi"
+1944 = "Ã§erkasi"
 7203 = "Tahanrig" #couldn't find any Tyn outside of Bohemia so I worked with Taganrog
 2414 = "Yeysk" #couldn't find Azaraba so I got the city name
-3241 = "Vinnitsâ"
+3241 = "VinnitsÃ¢"
 3243 = "Krivyi Rig" #a different settlement than current one
-3247 = "Izüm" #or "Izyum" both seem to work while izüm is the modern crimean tatar name
+3247 = "IzÃ¼m" #or "Izyum" both seem to work while izÃ¼m is the modern crimean tatar name
 3302 = "Bahmut"
 
 #kazakh
 439 = "Mankashlagh" #closest to current name I saw, 
-465 = "Saraychyq" #or "Saray Jük", "Saray Maly"
+465 = "Saraychyq" #or "Saray JÃ¼k", "Saray Maly"
 469 = "Narin Qumi"
-474 = "Orál" #modern kazakh name, currently bearing a russian name for the river
+474 = "OrÃ¡l" #modern kazakh name, currently bearing a russian name for the river
 
 #Kazan 
 1082 = "Qazan"
-3280 = "Mariy" #or "çirmishi" from çirmishistan
+3280 = "Mariy" #or "Ã§irmishi" from Ã§irmishistan
 
 #moldava and Transnistria
 2405 = "Kishineu"		#Or "Kisineu"
 
 #bulgaria
-3164 = "Kustendyjjâ" #trying to go AH and a turkish name that sounds alike would be "Kustendja", "-dji"
+3164 = "KustendyjjÃ¢" #trying to go AH and a turkish name that sounds alike would be "Kustendja", "-dji"
 
 #Turkey
 151 = "Kostantiniyye"
@@ -96,7 +96,7 @@
 #2017 Aug 23
 
 #great horde
-303 = "Ükäk" #saratov is a russian name and younger, though then again 2418 has the same name and city atm which is weird
+303 = "ÃœkÃ¤k" #saratov is a russian name and younger, though then again 2418 has the same name and city atm which is weird
 
 
 
@@ -106,10 +106,10 @@
 134 = "Viyana"
 
 #Caucasus
-462 = "Mingrellär" #or "Megrel"
-1856 = "Abxazça" #or "Abhaziya"
+462 = "MingrellÃ¤r" #or "Megrel"
+1856 = "AbxazÃ§a" #or "Abhaziya"
 2199 = "Targhu"
-3262 = "Qaraçay"
+3262 = "QaraÃ§ay"
 
 
 
@@ -140,13 +140,13 @@
 
 #2018 Nov 7
 #reworked areas ukraine
-7195 = "Özü-Qale" #or "Kara-Kerman"
+7195 = "Ã–zÃ¼-Qale" #or "Kara-Kerman"
 7251 = "Oleksandriya"
-7258 = "çuguyiv"
+7258 = "Ã§uguyiv"
 
 #steppe
 470 = "Bai-Uly"
-2367 = "Hal'mg Tanghç"
+2367 = "Hal'mg TanghÃ§"
 2369 = "Zhanybek"
 
 
@@ -166,7 +166,7 @@
 2201 = "Terek-Qale"
 2198 = "Khazav-Yurtu"
 2417 = "Kalmukya"
-3250 = "Ardanuç"
+3250 = "ArdanuÃ§"
 3251 = "Ahiska" #name of town, not of Meshketi
 
 #ukraine
@@ -174,14 +174,14 @@
 3241 = "Gaysin"
 3246 = "Romni"
 4247 = "Korosten"
-4540 = "Vinnitsâ"
+4540 = "VinnitsÃ¢"
 7196 = "Kamyanske"
 7209 = "Ribnitsa"
 7235 = "Rogachev"
-7242 = "çornobil"
+7242 = "Ã§ornobil"
 7250 = "Borispil"
 7255 = "Mirgorod"
-7256 = "Kremençuk"
+7256 = "KremenÃ§uk"
 7279 = "Transdinyester"
 
 #russia
@@ -189,15 +189,15 @@
 313 = "Arxangil"
 1077 = "Salikam" #or "Pirem" as for translating Perm
 1079 = "Katilnij"
-1754 = "Möräm"
-1957 = "Gärej"
-1963 = "Järdän"
+1754 = "MÃ¶rÃ¤m"
+1957 = "GÃ¤rej"
+1963 = "JÃ¤rdÃ¤n"
 1964 = "Sysola"
 1972 = "Malmij"
-2421 = "Yar çalli" #or "Jükätau", "Cükätaw"
+2421 = "Yar Ã§alli" #or "JÃ¼kÃ¤tau", "CÃ¼kÃ¤taw"
 3281 = "Nokrat"
 4266 = "Ijau"
-5664 = "Karaçev"
+5664 = "KaraÃ§ev"
 5676 = "Kulom"
 
 #germany
@@ -208,14 +208,14 @@
 330 = "Trabzon"
 2306 = "Mus"
 3248 = "Rize"
-4315 = "Gümüjane"
+4315 = "GÃ¼mÃ¼jane"
 5151 = "Baiburt"
 5206 = "Giresun"
 
 #persia
 424 = "Erdevil" #?
-2214 = "Gülistan"
-2233 = "çabahar"
+2214 = "GÃ¼listan"
+2233 = "Ã§abahar"
 
 #transoxania
 456 = "Yesi"
@@ -234,70 +234,70 @@
 #2019 January
 
 #poland
-257 = "Varçáva"
+257 = "VarÃ§Ã¡va"
 
 #middle east
-398 = "Sharjä"
+398 = "SharjÃ¤"
 400 = "Masqat"
-407 = "Är-Raqqa"
+407 = "Ã„r-Raqqa"
 1849 = "Xoms"
-1854 = "Yäffä"
+1854 = "YÃ¤ffÃ¤"
 1855 = "Celile" #or "Galil"
-2347 = "Hüfuf"
-4286 = "Föjäirä"
+2347 = "HÃ¼fuf"
+4286 = "FÃ¶jÃ¤irÃ¤"
 5251 = "Hafji"
 
 #iran
-2219 = "Bändär Lingä"
+2219 = "BÃ¤ndÃ¤r LingÃ¤"
 
 #india
 533 = "Maisur"
-1248 = "Maldívlar"
+1248 = "MaldÃ­vlar"
 
 #china
 1816 = "Xanvalik" #or "Pekin"
 
 #manchuria
-1033 = "Cäxälin"
+1033 = "CÃ¤xÃ¤lin"
 
 #kamchatka
-1034 = "Kamçatka"
+1034 = "KamÃ§atka"
 
 #Arga Feb 2019
 
 #moldavia and romania
-7278 = "Akkerman" #or "Akkirmän" tatarça
+7278 = "Akkerman" #or "AkkirmÃ¤n" tatarÃ§a
 
 #siberia
 171 = "Qizil Tura" #changes 1500 to "Qashliq"
-1075 = "çinki-Tura" #"Tömän" tatarça
+1075 = "Ã§inki-Tura" #"TÃ¶mÃ¤n" tatarÃ§a
 2441 = "Melekes"
 
 #bashkiria
-475 = "Bashqirtistan" #crimean tatar, or "Bashkortstan" tatarça
+475 = "Bashqirtistan" #crimean tatar, or "Bashkortstan" tatarÃ§a
 
 #russia
 302 = "Tambu"
-3268 = "Elets" #tatarça
+3268 = "Elets" #tatarÃ§a
 
 #ruthenia
-261 = "Galiç"
+261 = "GaliÃ§"
 7273 = "Kolomiya"
 
 #transoxania
-441 = "Xivä"
+441 = "XivÃ¤"
 442 = "Boxara"
-454 = "Sämärqand"
+454 = "SÃ¤mÃ¤rqand"
 
 #Arga Mar 2019
 
-#russia using tatarça
-301 = "Räzän"
+#russia using tatarÃ§a
+301 = "RÃ¤zÃ¤n"
 308 = "Yarislau"
 1753 = "Kasmrama"
 
 #crimea
-7193 = "Içki"
+7193 = "IÃ§ki"
 
 #By Arga Aug 2019
 
@@ -311,19 +311,19 @@
 7241 = "Mozir'"
 
 #al jazira
-411 = "Äl-Müsïl"
+411 = "Ã„l-MÃ¼sÃ¯l"
 
 #transcaspia
-437 = "Käpet Taulari"
+437 = "KÃ¤pet Taulari"
 
 #arys
-457 = "Tajkänt"
-2356 = "Shimkänt"
+457 = "TajkÃ¤nt"
+2356 = "ShimkÃ¤nt"
 
 #jetysuu
 461 = "Almati"
 2125 = "Qochqor"
-2126 = "Çuy"
+2126 = "Ã‡uy"
 
 #yrtesh
 1071 = "Qizil-Tura"
@@ -336,22 +336,22 @@
 452 = "Bedehshan"
 
 #Balkh
-450 = "Bälex"
+450 = "BÃ¤lex"
 2227 = "Kondiz"
 
 #central siberia
 1069 = "Sorghit"
 
 #U
-677 = "Läsä"
+677 = "LÃ¤sÃ¤"
 4205 = "Naqu"
 
 #brunei
-636 = "Brüney"
+636 = "BrÃ¼ney"
 
 #europe
 #moscow
-295 = "Mäskäü"
+295 = "MÃ¤skÃ¤Ã¼"
 
 #tambov
 5672 = "Morsha" #russian name?
@@ -363,10 +363,10 @@
 1965 = "Bozaulik"
 
 #upper oka
-5680 = "Biläü"
+5680 = "BilÃ¤Ã¼"
 
 #kiev
-3242 = "Çigirin"
+3242 = "Ã‡igirin"
 
 #northern isles
 1979 = "Koyun Adalari" #turkish
@@ -377,8 +377,8 @@
 3243 = "Mykytyn Rih"
 
 #By Arga May 2020
-2421 = "Çistay"
-4265 = "Yar Çalli"
+2421 = "Ã‡istay"
+4265 = "Yar Ã‡alli"
 
 #africa
 #nile delta
@@ -395,7 +395,7 @@
 2325 = "El-Alamein" #masri
 
 #eastern desert
-2315 = "Süveysh" #turkish
+2315 = "SÃ¼veysh" #turkish
 
 #upper egypt
 360 = "Qus" #masri
@@ -405,39 +405,39 @@
 
 #asia
 #palestine
-5180 = "Gazzä" #Tatarça
+5180 = "GazzÃ¤" #TatarÃ§a
 
 #tripoli
-5170 = "Äl-Ladiqiä" #Tatarça
-5205 = "Bäirut" #tatarça
+5170 = "Ã„l-LadiqiÃ¤" #TatarÃ§a
+5205 = "BÃ¤irut" #tatarÃ§a
 
 #aleppo
-377 = "Xäleb" #tatarça
+377 = "XÃ¤leb" #tatarÃ§a
 2313 = "Antakya" #turkish
 4271 = "Idlip"
 
 #shahrizor
-415 = "Kärkuk" #tatarça
-4293 = "Ärbil" #tatarça
+415 = "KÃ¤rkuk" #tatarÃ§a
+4293 = "Ã„rbil" #tatarÃ§a
 
 #tabriz
-2206 = "Urmija" #tatarça
+2206 = "Urmija" #tatarÃ§a
 
 #shirvan
 421 = "Baqu" #crimean tatar
 
 #dagestan
 425 = "Daghistan" #crimean tatar
-3261 = "Därbänt" #tatarça
+3261 = "DÃ¤rbÃ¤nt" #tatarÃ§a
 
 #kashmir
 508 = "Keshmir" #turkish
 
 #mecca
-385 = "Mäkkä" #tatarça
+385 = "MÃ¤kkÃ¤" #tatarÃ§a
 
 #medina
-384 = "Mädinä" #tatarça
+384 = "MÃ¤dinÃ¤" #tatarÃ§a
 
 #tihamah
 2331 = "Cidde" #turkish
@@ -449,17 +449,17 @@
 4338 = "Sultaniye" #turkish
 
 #persian gulf
-2999 = "Hürmüz" #turkish
+2999 = "HÃ¼rmÃ¼z" #turkish
 
 #isfahan
-429 = "Isfähan" #tatarça
+429 = "IsfÃ¤han" #tatarÃ§a
 
 #iraq-e-ajam
 428 = "Tehran" #crimean tatar
 
 #khiva
-1973 = "Urgänej"
-2362 = "Köhnä Urgänej"
+1973 = "UrgÃ¤nej"
+2362 = "KÃ¶hnÃ¤ UrgÃ¤nej"
 
 #asia area
 319 = "Mughla" #turkish and also crimean tatar
@@ -477,10 +477,10 @@
 2300 = "Niksar" #turkish
 
 #odishi
-422 = "Bashaçiq" #azeri
+422 = "BashaÃ§iq" #azeri
 
 #east guangdong
-667 = "Kantón" #tatarça
+667 = "KantÃ³n" #tatarÃ§a
 
 #shaanxi
 700 = "Shian"
@@ -490,21 +490,21 @@
 
 #europe
 #dobruja
-3163 = "Tuljä" #tatarça, unsure
+3163 = "TuljÃ¤" #tatarÃ§a, unsure
 7154 = "Tolbuhin" #turkish
-7759 = "Ishaçi" #turkish
+7759 = "IshaÃ§i" #turkish
 7765 = "Hirsova" #turkish
 
 #novgorod
-310 = "Yeñi Bahçe" #turkish, translation of meaning
+310 = "YeÃ±i BahÃ§e" #turkish, translation of meaning
 
 #hellas
-146 = "Afina" #tatarça
+146 = "Afina" #tatarÃ§a
 3177 = "Istefe" #turkish
-7111 = "Böotya" #turkish
+7111 = "BÃ¶otya" #turkish
 
 #peloponnese
-7104 = "Gördös" #turkish
+7104 = "GÃ¶rdÃ¶s" #turkish
 
 #aegean islands
 2348 = "Sakiz" #turkish
@@ -534,50 +534,50 @@
 3195 = "Limni" #turkish
 
 #transdanubia
-135 = "Shopron" #tatarça
+135 = "Shopron" #tatarÃ§a
 153 = "Pesht" #crimean tatar
-4240 = "Ak Urindik" #translation of german name in tatarça
+4240 = "Ak Urindik" #translation of german name in tatarÃ§a
 
 #slovakia
-1772 = "Preshporok" #tatarça corruption
+1772 = "Preshporok" #tatarÃ§a corruption
 
 #southern transylvania
-1951 = "Timer Bazari" #translation of german name in tatarça
-4128 = "Brasho" #tatarça
+1951 = "Timer Bazari" #translation of german name in tatarÃ§a
+4128 = "Brasho" #tatarÃ§a
 
 #northern transylvania
 3154 = "Aksaray"
 
 #east prussia
-42 = "Izge Tau" #"holy mountain" translated into tatarça based on german name
-7833 = "Ambar Yol" #"amber road" translated into tatarça
+42 = "Izge Tau" #"holy mountain" translated into tatarÃ§a based on german name
+7833 = "Ambar Yol" #"amber road" translated into tatarÃ§a
 
 #neumark
-49 = "Yeñi Ilçe" #"new county" translated into turkish
+49 = "YeÃ±i IlÃ§e" #"new county" translated into turkish
 
 #montenegro
-138 = "Karatay" #tatarça
+138 = "Karatay" #tatarÃ§a
 
 #ostrogothia
-25 = "Got Zir" #"goth land" in tatarça
+25 = "Got Zir" #"goth land" in tatarÃ§a
 3121 = "Dar Ada" #"narrow island" in turkish
 
 #finland
-28 = "Yaña Zir" #"new land" in tatarça
+28 = "YaÃ±a Zir" #"new land" in tatarÃ§a
 
 #krakow
 262 = "Krakov" #crimean tatar
 
 #mazovia
-7264 = "Mazovyâ"
+7264 = "MazovyÃ¢"
 
 #transpomerania
 48 = "Tozli Yolu" #"salt road"
-1858 = "Shçetsin" #crimean tatar
+1858 = "ShÃ§etsin" #crimean tatar
 7823 = "Aksaray" #"white palace"
 
 #nadruvia
-7837 = "Tilzit" #tatarça
+7837 = "Tilzit" #tatarÃ§a
 
 #galicia
 2961 = "Ilbav" #crimean tatar
@@ -592,8 +592,8 @@
 
 #windward islands
 501 = "Uzin Sakalli Ada" #"island of long beards"
-502 = "Berdämlek" #"unity" in tatarça
-5581 = "Tämäke" #"tobacco in tatarça
+502 = "BerdÃ¤mlek" #"unity" in tatarÃ§a
+5581 = "TÃ¤mÃ¤ke" #"tobacco in tatarÃ§a
 5582 = "Kraliyet Qale" #"royal castle" in turkish
 
 #venezuela
@@ -603,7 +603,7 @@
 #europe
 #1.30 updates
 #podolia
-4540 = { "Vinnitsâ" "Vinnitsâ" } #
+4540 = { "VinnitsÃ¢" "VinnitsÃ¢" } #
 7209 = { "Ribnitsa" "Ribnitsa" } #
 
 #bessarabia
@@ -613,47 +613,47 @@
 
 #yedisan
 282 = { "Hacibey" "Hacibey" } #
-7195 = { "Özü-Qale" "Özü-Qale" } #
+7195 = { "Ã–zÃ¼-Qale" "Ã–zÃ¼-Qale" } #
 
 #new province names
 #austria proper
-3051 = { "Timär Shänär" "Timär Shänär" } #tatarça, using German name, translated "city of iron"
+3051 = { "TimÃ¤r ShÃ¤nÃ¤r" "TimÃ¤r ShÃ¤nÃ¤r" } #tatarÃ§a, using German name, translated "city of iron"
 
 #transdanubia
-8172 = { "Tash" "Tash" } #tatarça, translated "stone"
+8172 = { "Tash" "Tash" } #tatarÃ§a, translated "stone"
 
 #upper hungary
-8183 = { "Yatsa Sarai" "Yatsa Sarai" } #tatarça, using german name, translated "new castle"
+8183 = { "Yatsa Sarai" "Yatsa Sarai" } #tatarÃ§a, using german name, translated "new castle"
 
-#west alföld
-4126 = { "Ketchkenä Kumaniyya" "Ketchkenä Kumaniyya" } #tatarça, using german name,translated "little cumania"
+#west alfÃ¶ld
+4126 = { "KetchkenÃ¤ Kumaniyya" "KetchkenÃ¤ Kumaniyya" } #tatarÃ§a, using german name,translated "little cumania"
 
 #southern transylvania
-1951 = { "Timer Vazari" "Timer Vazari" } #tatarça, using german name, translated "iron market"
-3154 = { "Aksarai" "Aksarai" } #tatarça, using german name, translated "white castle"
+1951 = { "Timer Vazari" "Timer Vazari" } #tatarÃ§a, using german name, translated "iron market"
+3154 = { "Aksarai" "Aksarai" } #tatarÃ§a, using german name, translated "white castle"
 
 #northern transylvania
-8207 = { "Toz Tchokiri" "Toz Tchokiri" } #tatarça, using german name, translated "salt pit"
+8207 = { "Toz Tchokiri" "Toz Tchokiri" } #tatarÃ§a, using german name, translated "salt pit"
 
 #upper muntenia
-7751 = { "Kizil-Manara" "Kizil-Manara" } #tatarça, name of pass, translated "red tower"
+7751 = { "Kizil-Manara" "Kizil-Manara" } #tatarÃ§a, name of pass, translated "red tower"
 
 #lower muntenia
-2998 = { "Buziu" "Buziu" } #tatarça name
+2998 = { "Buziu" "Buziu" } #tatarÃ§a name
 
 #galicia
 2961 = { "Ilbav" "Ilbav" } #crimean tatar name for Lemberg
 
 #asia
 #kinai
-1020 = { "Köto" "Köto" } #
+1020 = { "KÃ¶to" "KÃ¶to" } #
 
 #europe
 #lower moesia
 159 = { "Silistra" "Silistra" } #qazakh
 
 #bohemia
-266 = { "Praga" "Praga" } #tatarça
+266 = { "Praga" "Praga" } #tatarÃ§a
 
 #ore mountains
 2967 = { "Rualiq Taular" "Rualiq Taular" } #qazakh
@@ -661,17 +661,17 @@
 #hannover
 7810 = { "Marsh-Baylik" "Marsh-Baylik" } #
 
-#west alföld
-4126 = { "Kechkenä-Kumaniyya" "Kechkenä-Kumaniyya" } #tatarça
+#west alfÃ¶ld
+4126 = { "KechkenÃ¤-Kumaniyya" "KechkenÃ¤-Kumaniyya" } #tatarÃ§a
 8193 = { "Yas" "Yas" } #or 'Djaz'
 8201 = { "Kara-Qale" "Kara-Qale" } #turkic, or "Qara-Qamal" qazakh, "-Sarai"
 
-#east alföld
+#east alfÃ¶ld
 3148 = { "Solynok" "Solynok" } #
-8200 = { "Uli-Kumaniyya" "Uli-Kumaniyya" } #qazakh, or 'Zur ...' tatarça
+8200 = { "Uli-Kumaniyya" "Uli-Kumaniyya" } #qazakh, or 'Zur ...' tatarÃ§a
 
 #campania
-121 = { "Yanga Shänär" "Yanga Shänär" } #
+121 = { "Yanga ShÃ¤nÃ¤r" "Yanga ShÃ¤nÃ¤r" } #
 
 #apulia
 7011 = { "Izge Severo" "Izge Severo" } #
@@ -714,10 +714,10 @@
 42 = { "Izge Tau" "Izge Tau" } #
 48 = { "Tozli Yolu" "Tozli Yolu" } #
 146 = { "Afina" "Afina" } #
-148 = { "Makedoniya" "Sälänik" } #
+148 = { "Makedoniya" "SÃ¤lÃ¤nik" } #
 150 = { "Nighbolu" "Nighbolu" } #
-257 = { "Varçáva" "Varçáva" } #
-261 = { "Galiç" "Galiç" } #
+257 = { "VarÃ§Ã¡va" "VarÃ§Ã¡va" } #
+261 = { "GaliÃ§" "GaliÃ§" } #
 262 = { "Krakov" "Krakov" } #
 279 = { "Volinya" "Volinya" } #
 280 = { "Kiyev" "Kiyev" } #
@@ -726,77 +726,77 @@
 286 = { "Azaq" "Azaq" } #
 287 = { "Koban" "Achtar" } #
 288 = { "Zimla" "Zimla" } #
-289 = { "Çernigiv" "Çernigiv" } #
+289 = { "Ã‡ernigiv" "Ã‡ernigiv" } #
 291 = { "Harkiv" "Harkiv" } #
-295 = { "Mosqu" "Mosqu" } #crimean tatar, alternatively Mäskäy
-301 = { "Räzän" "Räzän" } #
+295 = { "Mosqu" "Mosqu" } #crimean tatar, alternatively MÃ¤skÃ¤y
+301 = { "RÃ¤zÃ¤n" "RÃ¤zÃ¤n" } #
 302 = { "Tambu" "Tambu" } #
 303 = { "Sary Tau" "Sary Tau" } #compromise
 306 = { "Nijgar" "Nijgar" } #
 305 = { "Wisu" "Wisu" } #
 308 = { "Yarislau" "Yarislau" } #
-310 = { "Yeñi Bahçe" "Yeñi Bahçe" } #
+310 = { "YeÃ±i BahÃ§e" "YeÃ±i BahÃ§e" } #
 316 = { "Kocaeli" "Izmit" } #could be typo on the source
 317 = { "Bursa" "Bursa" } #
 318 = { "Ismira" "Ismira" } #
 330 = { "Trabzon" "Trabzon" } #
 358 = { "Iskenderiye" "Iskenderiye" } #
 361 = { "Qaire" "Qaire" } #
-377 = { "Xäleb" "Xäleb" } #
+377 = { "XÃ¤leb" "XÃ¤leb" } #
 378 = { "Tripoli" "Tripoli" } #
-382 = { "Äsh-Shäm" "Dimäshq" } #
-384 = { "Mädinä" "Mädinä" } #
-385 = { "Mäkkä" "Mäkkä" } #
-398 = { "Sharjä" "Sharjä" } #
-407 = { "Är-Raqqa" "Är-Raqqa" } #
-411 = { "Äl Müs'il" "Äl Müs'il" } #
-415 = { "Kärkuk" "Kärkuk" } #
+382 = { "Ã„sh-ShÃ¤m" "DimÃ¤shq" } #
+384 = { "MÃ¤dinÃ¤" "MÃ¤dinÃ¤" } #
+385 = { "MÃ¤kkÃ¤" "MÃ¤kkÃ¤" } #
+398 = { "SharjÃ¤" "SharjÃ¤" } #
+407 = { "Ã„r-Raqqa" "Ã„r-Raqqa" } #
+411 = { "Ã„l MÃ¼s'il" "Ã„l MÃ¼s'il" } #
+415 = { "KÃ¤rkuk" "KÃ¤rkuk" } #
 421 = { "Baqu" "Baqu" } #
-422 = { "Bashaçiq" "Qutais" } #
+422 = { "BashaÃ§iq" "Qutais" } #
 428 = { "Tehran" "Tehran" } #
-429 = { "Isfähan" "Isfähan" } #
+429 = { "IsfÃ¤han" "IsfÃ¤han" } #
 438 = { "Karakum" "Karakum" } #
 439 = { "Mankashlagh" "Mankashlagh" } #
-441 = { "Xivä" "Xivä" } #
+441 = { "XivÃ¤" "XivÃ¤" } #
 442 = { "Boxara" "Boxara" } #
-450 = { "Bälex" "Bälex" } #
-454 = { "Sämärqand" "Sämärqand" } #
+450 = { "BÃ¤lex" "BÃ¤lex" } #
+454 = { "SÃ¤mÃ¤rqand" "SÃ¤mÃ¤rqand" } #
 455 = { "Qizilqum" "Qizilqum" } #
 456 = { "Yesi" "Yesi" } #
-457 = { "Tajkänt" "Tajkänt" } #
+457 = { "TajkÃ¤nt" "TajkÃ¤nt" } #
 463 = { "Cherkess" "Cherkess" } #
 464 = { "Hajji Tarkhan" "Hajji Tarkhan" } #
 465 = { "Saraychyq" "Saraychyq" } #
 466 = { "Saray Al-Jadidah" "Saray Al-Jadidah" } #
 470 = { "Bai-Uly" "Bai-Uly" } #
-474 = { "Orál" "Orál" } #
-475 = { "Bashqirtistan" "Öfö" } #
+474 = { "OrÃ¡l" "OrÃ¡l" } #
+475 = { "Bashqirtistan" "Ã–fÃ¶" } #
 575 = { "Gvadr" "Gvadr" } #
 700 = { "Shian" "Shian" } #
 712 = { "Aqsu" "Aqsu" } #
 739 = { "Kashyar" "Kashyar" } #
-1075 = { "Çinki-Tura" "Çinki-Tura" } #
+1075 = { "Ã‡inki-Tura" "Ã‡inki-Tura" } #
 1077 = { "Salikam" "Salikam" } #
 1079 = { "Katilnij" "Katilnij" } #
 1081 = { "Sinbar" "Sinbar" } #
 1082 = { "Qazan" "Qazan" } #
 1753 = { "Kasmrama" "Kasmrama" } #
-1754 = { "Möräm" "Möräm" } #
-1778 = { "Qasiym" "Xankirmän" } #Khankirmän, Khan Kirmän
+1754 = { "MÃ¶rÃ¤m" "MÃ¶rÃ¤m" } #
+1778 = { "Qasiym" "XankirmÃ¤n" } #KhankirmÃ¤n, Khan KirmÃ¤n
 1816 = { "Xanvalik" "Xanvalik" } #
 1849 = { "Xoms" "Xoms" } #
-1854 = { "Yäffä" "Yäffä" } #
+1854 = { "YÃ¤ffÃ¤" "YÃ¤ffÃ¤" } #
 1855 = { "Celile" "Celile" } #
-1856 = { "Abxazça" "Suxum" } #
+1856 = { "AbxazÃ§a" "Suxum" } #
 1942 = { "Jitomir" "Jitomir" } #
-1944 = { "Çerkasi" "Çerkasi" } #
-1957 = { "Gärej" "Gärej" } #
+1944 = { "Ã‡erkasi" "Ã‡erkasi" } #
+1957 = { "GÃ¤rej" "GÃ¤rej" } #
 1959 = { "Torjok" "Torjok" } #
-1963 = { "Järdän" "Järdän" } #
+1963 = { "JÃ¤rdÃ¤n" "JÃ¤rdÃ¤n" } #
 1964 = { "Sysola" "Sysola" } #
 1965 = { "Bozaulik" "Bozaulik" } #
 1972 = { "Malmij" "Alabugah" } #
-1973 = { "Urgänej" "Urgänej" } #
+1973 = { "UrgÃ¤nej" "UrgÃ¤nej" } #
 2113 = { "Temur Limani" "Temur Limani" } #
 2124 = { "Yengi Yezik" "Yengi Yezik" } #
 2125 = { "Qochqor" "Qochqor" } #
@@ -804,100 +804,100 @@
 2199 = { "Targhu" "Targhu" } #
 2201 = { "Terek-Qale" "Terek-Qale" } #
 2206 = { "Urmija" "Urmija" } #
-2208 = { "Terek" "Mäzdäk" } #
-2219 = { "Bändär Lingä" "Bändär Lingä" } #
+2208 = { "Terek" "MÃ¤zdÃ¤k" } #
+2219 = { "BÃ¤ndÃ¤r LingÃ¤" "BÃ¤ndÃ¤r LingÃ¤" } #
 2227 = { "Kondiz" "Kondiz" } #
-2296 = { "Çankkale" "Çankkale" } #
+2296 = { "Ã‡ankkale" "Ã‡ankkale" } #
 2304 = { "Simisso" "Simisso" } #
 2305 = { "Celezene" "Celezene" } #
 2309 = { "Sinjar" "Sinjar" } #
 2313 = { "Antakya" "Antakya" } #
-2315 = { "Süveysh" "Süveysh" } #
+2315 = { "SÃ¼veysh" "SÃ¼veysh" } #
 2331 = { "Cidde" "Cidde" } #
-2347 = { "Hüfuf" "Hüfuf" } #
+2347 = { "HÃ¼fuf" "HÃ¼fuf" } #
 2348 = { "Sakiz" "Sakiz" } #
-2356 = { "Shimkänt" "Shimkänt" } #
-2362 = { "Köhnä Urgänej" "Köhnä Urgänej" } #
+2356 = { "ShimkÃ¤nt" "ShimkÃ¤nt" } #
+2362 = { "KÃ¶hnÃ¤ UrgÃ¤nej" "KÃ¶hnÃ¤ UrgÃ¤nej" } #
 2365 = { "Urda-Ulus" "Urda" } #
-2367 = { "Hal'mg Tanghç" "Hal'mg Tanghç" } #
+2367 = { "Hal'mg TanghÃ§" "Hal'mg TanghÃ§" } #
 2408 = { "Achmat" "Achmat" } #
-2410 = { "Baghçasaray" "Çufut Qale" } #Manghup Qale was a hill castle, will change with the death of Haji Giray event to Baghçasaray
+2410 = { "BaghÃ§asaray" "Ã‡ufut Qale" } #Manghup Qale was a hill castle, will change with the death of Haji Giray event to BaghÃ§asaray
 2414 = { "Yeysk" "Yeysk" } #
-2418 = { "Ükäk" "Ükäk" } #
-2421 = { "Çistay" "Çistay" } #
+2418 = { "ÃœkÃ¤k" "ÃœkÃ¤k" } #
+2421 = { "Ã‡istay" "Ã‡istay" } #
 2423 = { "Ulatar" "Ulatar" } #
 2444 = { "Basqart" "Basqart" } #
 2447 = { "Hunkala" "Hunkala" } #
 2750 = { "Filibe" "Filibe" } #
-2999 = { "Hürmüz" "Hürmüz" } #
-3164 = { "Kustendyjjâ" "Kustendyjjâ" } #
+2999 = { "HÃ¼rmÃ¼z" "HÃ¼rmÃ¼z" } #
+3164 = { "KustendyjjÃ¢" "KustendyjjÃ¢" } #
 3177 = { "Istefe" "Istefe" } #
 3178 = { "Axeya" "Patri" } #
 3241 = { "Gaysin" "Gaysin" } #
-3242 = { "Çigirin" "Çigirin" } #
+3242 = { "Ã‡igirin" "Ã‡igirin" } #
 3244 = { "Qirim" "Qirim" } #
-3245 = { "Yeñi Qale" "Yeñi Qale" } #
+3245 = { "YeÃ±i Qale" "YeÃ±i Qale" } #
 3246 = { "Romni" "Romni" } #
-3247 = { "Izüm" "Izüm" } #
+3247 = { "IzÃ¼m" "IzÃ¼m" } #
 3248 = { "Rize" "Rize" } #
 3251 = { "Ahiska" "Ahiska" } #
-3261 = { "Därbänt" "Därbänt" } #
-3262 = { "Qaraçay" "Qaraçay" } #
+3261 = { "DÃ¤rbÃ¤nt" "DÃ¤rbÃ¤nt" } #
+3262 = { "QaraÃ§ay" "QaraÃ§ay" } #
 3268 = { "Elets" "Elets" } #
 3280 = { "Mariy" "Jojkar-Ola" } #
 3281 = { "Nokrat" "Nokrat" } #
 3291 = { "Oskol" "Iske Oskol" } #
 3301 = { "Dorogobuj" "Dorogobuj" } #
 3302 = { "Bahmut" "Bahmut" } #
-4265 = { "Yar Çalli" "Yar Çalli" } #
+4265 = { "Yar Ã‡alli" "Yar Ã‡alli" } #
 4266 = { "Ijau" "Ijau" } #
 4267 = { "Bolghar" "Bolghar" } #
 4271 = { "Idlip" "Idlip" } #
-4286 = { "Föjairä" "Föjairä" } #
+4286 = { "FÃ¶jairÃ¤" "FÃ¶jairÃ¤" } #
 4295 = { "Hasankeyf" "Hasankeyf" } #
-4315 = { "Gümüjane" "Gümüjane" } #
+4315 = { "GÃ¼mÃ¼jane" "GÃ¼mÃ¼jane" } #
 4543 = { "Rilsk" "Rilsk" } #
 4701 = { "Korinth" "Korinth" } #
 4704 = { "Tirnovo" "Tirnovo" } #
-4706 = { "Tulçä" "Tulçä" } #
+4706 = { "TulÃ§Ã¤" "TulÃ§Ã¤" } #
 5131 = { "Ayvali" "Ayvali" } #
 5151 = { "Baiburt" "Baiburt" } #
 5156 = { "Biga" "Biga" } #
 5157 = { "Iznik" "Iznik" } #
-5168 = { "Sakariyâ" "Adapazari" } #
-5170 = { "Äl-Ladiqiä" "Äl-Ladiqiä" } #
-5171 = { "Mihaliç" "Mihaliç" } #
-5180 = { "Gazzä" "Gazzä" } #
-5205 = { "Bäirut" "Bäirut" } #
+5168 = { "SakariyÃ¢" "Adapazari" } #
+5170 = { "Ã„l-LadiqiÃ¤" "Ã„l-LadiqiÃ¤" } #
+5171 = { "MihaliÃ§" "MihaliÃ§" } #
+5180 = { "GazzÃ¤" "GazzÃ¤" } #
+5205 = { "BÃ¤irut" "BÃ¤irut" } #
 5206 = { "Giresun" "Giresun" } #
 5261 = { "Dimyat" "Medinat Dimyat" } #
 5296 = { "Nasibina" "Nasibina" } #
 5330 = { "Silivan" "Silivan" } #
 5331 = { "Siirt" "Siirt" } #
-5664 = { "Karaçev" "Karaçev" } #
+5664 = { "KaraÃ§ev" "KaraÃ§ev" } #
 5672 = { "Morsha" "Morsha" } #
 5675 = { "Ijma" "Ijma" } #
-5677 = { "Peçöra" "Peçöra" } #
-5680 = { "Biläü" "Biläü" } #
-7111 = { "Böotya" "Böotya" } #
+5677 = { "PeÃ§Ã¶ra" "PeÃ§Ã¶ra" } #
+5680 = { "BilÃ¤Ã¼" "BilÃ¤Ã¼" } #
+7111 = { "BÃ¶otya" "BÃ¶otya" } #
 7154 = { "Tolbuhin" "Tolbuhin" } #
 7158 = { "Shumnu" "Shumnu" } #
 7190 = { "Baliqlava" "Baliqlava" } #
 7191 = { "Kezlev" "Kezlev" } #
 7192 = { "Aqmescit" "Aqmescit" } #
-7193 = { "Içki" "Içki" } #
+7193 = { "IÃ§ki" "IÃ§ki" } #
 7196 = { "Kamyanske" "Kamyanske" } #
-7242 = { "Çornobil" "Çornobil" } #
+7242 = { "Ã‡ornobil" "Ã‡ornobil" } #
 7250 = { "Borispil" "Borispil" } #
 7251 = { "Oleksandriya" "Oleksandriya" } #
 7255 = { "Mirgorod" "Mirgorod" } #
-7256 = { "Kremençuk" "Kremençuk" } #
-7258 = { "Çuguyiv" "Çuguyiv" } #
+7256 = { "KremenÃ§uk" "KremenÃ§uk" } #
+7258 = { "Ã‡uguyiv" "Ã‡uguyiv" } #
 7273 = { "Kolomiya" "Kolomiya" } #
-7706 = { "Lofeç" "Lofeç" } #
+7706 = { "LofeÃ§" "LofeÃ§" } #
 7707 = { "Ivraza" "Ivraza" } #
 7745 = { "Adaqale" "Adaqale" } #
-7759 = { "Ishaçi" "Ishaçi" } #
+7759 = { "IshaÃ§i" "IshaÃ§i" } #
 7823 = { "Aksaray" "Aksaray" } #
 7833 = { "Ambar Yol" "Ambar Yol" } #
 
@@ -921,23 +921,23 @@
 #transdanubia
 135 = { "Shoprom" "Shoprom" } #
 4240 = { "Ak Urindik" "Ak Urindik" } #
-#west alföld
+#west alfÃ¶ld
 153 = { "Pesht" "Pesht" } #
 8188 = { "Sonbor" "Sonbor" } #
-#east alföld
+#east alfÃ¶ld
 3152 = { "Zur Karol" "Zur Karol" } #
 #lower hungary
 1772 = { "Preshporok" "Preshporok" } #
 #upper hungary
-8194 = { "Miskofça" "Miskofça" } #
-8195 = { "Gömör" "Gömör" } #
+8194 = { "MiskofÃ§a" "MiskofÃ§a" } #
+8195 = { "GÃ¶mÃ¶r" "GÃ¶mÃ¶r" } #
 #southern transylvania
 4128 = { "Brasho" "Brasho" } #
 #northern transylvania
 8206 = { "Zile" "Zile" } #
 #banat
 156 = { "Timish" "Timish" } #
-7741 = { "Beçkerek" "Beçkerek" } #
+7741 = { "BeÃ§kerek" "BeÃ§kerek" } #
 #syrmia
 4239 = { "Yakininda Aksarai" "Yakininda Aksarai" } #
 #serbia
@@ -945,10 +945,10 @@
 #upper silesia
 8176 = { "Oshpitz" "Oshpitz" } #
 #bukowina
-3156 = { "Suchäva" "Suchäva" } #
-7274 = { "Çernivtsi" "Çernivtsi" } #
+3156 = { "SuchÃ¤va" "SuchÃ¤va" } #
+7274 = { "Ã‡ernivtsi" "Ã‡ernivtsi" } #
 #moldavia
-7276 = { "Fokçan" "Fokçan" } #
+7276 = { "FokÃ§an" "FokÃ§an" } #
 #bessarabia
 2405 = { "Orhey" "Orhey" } #
 3159 = { "Soroka" "Soroka" } #
@@ -969,13 +969,13 @@
 #paphlagonia
 325 = { "Kastamonu" "Kastamonu" } #
 328 = { "Sinop" "Sinop" } #
-4313 = { "Çankiri" "Çankiri" } #
-5164 = { "Karabük" "Karabük" } #
+4313 = { "Ã‡ankiri" "Ã‡ankiri" } #
+5164 = { "KarabÃ¼k" "KarabÃ¼k" } #
 #lycia-pamphylia
 2302 = { "Gazipasa" "Gazipasa" } #
 5147 = { "Alaiye" "Alaiye" } #
 #lydia
-5163 = { "Üsak" "Üsak" } #
+5163 = { "Ãœsak" "Ãœsak" } #
 5172 = { "Alashehir" "Alashehir" } #
 #bithynia
 4312 = { "Boli" "Boli" } #
@@ -984,7 +984,7 @@
 #phrygia
 1848 = { "Afyon" "Afyon" } #
 #lycaonia
-323 = { "Könya" "Könya" } #
+323 = { "KÃ¶nya" "KÃ¶nya" } #
 4307 = { "Aksarai" "Aksarai" } #
 #shirvan
 424 = { "Erdevil" "Erdevil" } #
@@ -993,18 +993,72 @@
 #ural
 2441 = { "Melekes" "Melekes" } #
 #shahrizor
-4293 = { "Ärbil" "Ärbil" } #
+4293 = { "Ã„rbil" "Ã„rbil" } #
 #basra
-408 = { "Bäsrä" "Bäsrä" } #
+408 = { "BÃ¤srÃ¤" "BÃ¤srÃ¤" } #
 #al jazira
-5293 = { "Resülayn" "Resülayn" } #
+5293 = { "ResÃ¼layn" "ResÃ¼layn" } #
 5296 = { "Nusaybin" "Nusaybin" } #
 #aleppo
 4298 = { "Antep" "Antep" } #
 #palestine
 379 = { "Urshelim" "Urshelim" } #
 #syria
-382 = { "Äsh-Shäm" "Äsh-Shäm" } #
+382 = { "Ã„sh-ShÃ¤m" "Ã„sh-ShÃ¤m" } #
 #U
-677 = { "Läsä" "Läsä" } #
+677 = { "LÃ¤sÃ¤" "LÃ¤sÃ¤" } #
 4205 = { "Naqu" "Naqu" } #
+
+#By Arga Dec 2020
+30 = { "Izge Sarai" "Izge Sarai" } #
+50 = { "SÃ¤tzlik" "SÃ¤tzlik" } #
+105 = { "Barma" "Barma" } #
+107 = { "Breja" "Breja" } #
+116 = { "Florenziya" "Florenziya" } #
+138 = { "Karatay" "Karatay" } #
+142 = { "Kurfu" "Kurfu" } #
+145 = { "Lakuniya" "Mistras" } #
+275 = { "Polozk" "Polozk" } #
+299 = { "Voronej" "Voronej" } #
+356 = { "Bingazi" "Bingazi" } #
+362 = { "Reshid" "Reshid" } #
+419 = { "Erevan" "Erevan" } #
+667 = { "KantÃ³n" "KantÃ³n" } #
+679 = { "TchÃ¤ndu" "TchÃ¤ndu" } #
+682 = { "Wutchan" "Wutchan" } #
+689 = { "Hanjong" "Hanjong" } #
+698 = { "Ninsia" "Ninsia" } #
+699 = { "Lanijou" "Lanijou" } #
+730 = { "Girin" "Girin" } #
+1033 = { "CÃ¤xÃ¤lin" "CÃ¤xÃ¤lin" } #
+1056 = { "Bargajan" "Bargajan" } #
+1057 = { "Ãœd" "Ãœd" } #
+1773 = { "Eles" "Eles" } #
+2139 = { "Laijou" "Laijou" } #
+2140 = { "Yanjou" "Yanjou" } #
+2141 = { "Sujou" "Sujou" } #
+2169 = { "Langjong" "Langjong" } #
+2172 = { "Jingjou" "Jingjou" } #
+2179 = { "Ianan" "Ianan" } #
+2183 = { "Tajou" "Tajou" } #
+2980 = { "Lucka" "Lucka" } #
+3230 = { "Iske Parnau" "Iske Parnau" } #
+3231 = { "KÃ¶n Arali" "KÃ¶n Arali" } #
+4195 = { "Jending" "Jending" } #
+4242 = { "Borisov" "Borisov" } #
+4253 = { "VoloÃ§Ã«k" "VoloÃ§Ã«k" } #
+4299 = { "Å Ã¤maxi" "Å Ã¤maxi" } #
+4305 = { "Å Ã¤ke" "Å Ã¤ke" } #
+4316 = { "Sharqiye" "Sharqiye" } #
+4340 = { "LÃ¤nkÃ¤rÃ¤n" "LÃ¤nkÃ¤rÃ¤n" } #
+4779 = { "Gelibolu" "Gelibolu" } #
+5660 = { "Sebej" "Sebej" } #
+7137 = { "Silivri" "Silivri" } #
+7740 = { "VaÃ§ka" "VaÃ§ka" } #
+7765 = { "Hirsova" "Hirsova" } #
+7831 = { "Oli ByrÃ¤nÃ¤" "Oli ByrÃ¤nÃ¤" } #
+7832 = { "Rin" "Rin" } #
+7850 = { "Yatsa Parnau" "Yatsa Parnau" } #
+7880 = { "Jijets" "Jijets" } #
+7882 = { "PoÃ§ep" "PoÃ§ep" } #
+8231 = { "Ã‡ersk" "Ã‡ersk" } #
