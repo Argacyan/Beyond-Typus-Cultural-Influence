@@ -93,7 +93,7 @@
 1095 = "Isole Maluine"
 
 #Couple early 2019 fixes
-7063 = "MondovÏ"
+7063 = "Mondov√¨"
 2981 = "Monferrato"
 
 
@@ -260,7 +260,7 @@
 172 = "Vandea"
 174 = "Guascogna"
 177 = "Cenomania" #adaptation from latin, from which the french Le mans also comes.
-178 = "AngiÚ"
+178 = "Angi√≤"
 179 = "Avarico" # the name is the one used to call the battle of avaricum in historical italian. avaricum is the latin for bourges.
 180 = "Lemono" #same as above
 182 = "San Quintino"
@@ -416,8 +416,8 @@
 1205 = "Mogadiscio" #italian colonial names
 1206 = "Gardo"
 1208 = "Dagabur"
-1213 = "Scio‡"
-1214 = "DessiË"
+1213 = "Scio√†"
+1214 = "Dessi√®"
 1215 = "Tagiura"
 1223 = "Debra Marcos"
 1227 = "Axum"
@@ -521,7 +521,7 @@
 #Scandinavia
 
 13 = "Slesvicco"
-3135 = "Tonninga" #Tˆnningen
+3135 = "Tonninga" #T√∂nningen
 3136 = "Ditmarsia"
 4149 = "Coldinga" #Kolding
 4142 = "Jutland orientale"
@@ -656,8 +656,8 @@
 1956 = "Susdal"
 312 = "Bieleizoro"
 310 = "Novogrodde"
-1961 = "San NicolÚ"
-33 = "Notterburgo" #San petersburg i salso listed as Peterburgo, but in 1444 the city didnít exist.
+1961 = "San Nicol√≤"
+33 = "Notterburgo" #San petersburg i salso listed as Peterburgo, but in 1444 the city didn¬ít exist.
 274 = "Plescovia"
 3272 = "Vielcheluchi"
 294 = "Tuveria"
@@ -686,7 +686,7 @@
 339 = "Bugia" #Bejaia. As of BT 9.0.7.5. Old entry is based on a wider region. This would be more appropriate
 2451 = "Fabaca" #Thubaqt. Inspired by the old Latin name
 5309 = "Garian" #Gharyan
-4567 = "Sidam˘" #Ghadames. Inspired by the old Latin name
+4567 = "Sidam√π" #Ghadames. Inspired by the old Latin name
 2954 = "Gerba" #Djerba
 5313 = "Cillilana" #Kasserine.
 2473 = "Adramento" #Sousse. Inspired by the old Latin name
@@ -753,7 +753,7 @@
 7094 = "Belluno"
 
 # Albania and Epirus
-142 = "Corf˘"
+142 = "Corf√π"
 3181 = "Valona"
 4174 = "Durazzo"
 4175 = "Alessio"
@@ -807,11 +807,11 @@
 201 = "Marsiglia"
 203 = "Lione"
 204 = "Granopoli"
-205 = "CiamberÏ"
+205 = "Ciamber√¨"
 3046 = "Anassiaci"
 3089 = "Valenza"
 4696 = "Forcalchieri"
-7890 = "Fregi˘"
+7890 = "Fregi√π"
 7891 = "Draghignano"
 7892 = "Barcellonetta"
 7894 = "Arli"
@@ -974,7 +974,7 @@
 7955 = "Senone"
 7956 = "Meldi"
 7957 = "Stampa"
-7958 = "MontargÏ"
+7958 = "Montarg√¨"
 7960 = "Rambuglietto" #name of the city
 7961 = "Suassone"
 7962 = "Manta"
@@ -1026,7 +1026,7 @@
 497 = "Dominica"
 498 = "Martinica"
 500 = "San Vincenzo"
-502 = "Trinit‡"
+502 = "Trinit√†"
 1881 = "Anguilla"
 5579 = "Isola Margherita"
 5581 = "Tobago"
@@ -1126,7 +1126,7 @@
 #Windward Antilles
 501 = { "Isola Barbata" "San Michele" }
 5581 = { "Tabacco" "Porto Amedeo" }
-502 = { "Trinit‡" "Porto d'Italia" }
+502 = { "Trinit√†" "Porto d'Italia" }
 5582 = { "Nuova Elba" "Portoferrio" }
 500 = { "San Vincenzo" "Forte Elena" }
 499 = { "Santa Lucia" "Carenaggio" }
@@ -1134,7 +1134,7 @@
 497 = { "Domenica" "Roseto" }
 
 #Leeward Antilles
-491 = { "Isola della Guarigione" "Citt‡ Regia" }
+491 = { "Isola della Guarigione" "Citt√† Regia" }
 5578 = { "Aruba" "Sabaudia" }
 1520 = { "Isola Margherita" "San Carlo Borromeo" }
 
@@ -1177,3 +1177,48 @@
 2655 = { "Fiume Cauto" "Manzaniglio"}
 486 = { "San Giacomo di Cuba" "San Giacomo di Cuba" }
 2654 = { "Porto Santo"  "Porto Santo" }
+
+#Arga
+#14.02.2021
+65 = { "Minca" "Minca" } #
+73 = { "Val da l'En" "Puntina" } #
+104 = { "Milaun" "Milaun" } #
+107 = { "Bresse di Milaun" "Bresse" } #
+108 = { "Verone" "Verone" } #
+110 = { "Trent" "Trent" } #
+111 = { "Fri√ªl" "Olea" } #
+112 = { "Vaniescha" "Vaniescha" } #
+128 = { "Carintie Inferiura" "Clanfurt" } #
+134 = { "Viene" "Viene" } #
+165 = { "Berna" "Berna" } #
+166 = { "Quatter Chantuns" "Sviza" } #
+1768 = { "Leontin" "Leontin" } #
+1774 = { "Trev√Æs" "Trev√Æs" } #
+1867 = { "Losanna" "Losanna" } #
+1869 = { "Turitg" "Turitg" } #
+1870 = { "Sogn Gagi" "Sogn Gagi" } #
+1871 = { "Vad" "Sion" } #
+1873 = { "Grischun" "Cuira" } #
+1880 = { "Baselgia Vegl" "Baselgia Vegl" } #
+3045 = { "Val d'Aoste" "Aoste" } #
+3048 = { "Bulsaun" "Bulsaun" } #
+3054 = { "Tessin" "Ligaun" } #
+3055 = { "Basilea" "Basilea" } #
+3294 = { "Vuclina" "Sunder" } #
+4710 = { "Briganza" "Briganza" } #
+4712 = { "Constanza" "Constanza" } #
+4720 = { "Genevra" "Genevra" } #
+4721 = { "Friburg" "Friburg" } #
+4722 = { "Glion" "Glion" } #
+4738 = { "Triest" "Triest" } #
+4739 = { "Berghem" "Berghem" } #
+4740 = { "Cum" "Cum" } #C-U-M
+4758 = { "Meraun" "Meraun" } #
+4759 = { "Carintie Superiura" "Vilac" } #
+7084 = { "Vallagarina" "Roveredo" } #
+7085 = { "Vicense" "Vicense" } #
+7088 = { "Cador" "Cador" } #
+7091 = { "Tulmin" "Tulmin" } #
+7093 = { "Persen√π" "Persen√π" } #
+7094 = { "Belum" "Belum" } #
+7098 = { "Tumie√ß" "Tumie√ß" } #
